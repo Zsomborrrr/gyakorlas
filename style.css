@@ -21,7 +21,7 @@
     height: 30px;
 }
 
-.newsletter input {
+.newsletter input#email {
     display: block;
     width: 100%;
     height: 30px;
@@ -35,3 +35,4 @@
     margin-top: 0;
     
 }
+
